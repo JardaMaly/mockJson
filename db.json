@@ -1,0 +1,55 @@
+{
+	"items": [
+
+           {
+        "id": 120411,
+        "code": "D-024106",
+        "description": "[DEMO1] CUB. 215/60 R16 95W  ENERGY SAVER GRNX",
+        "categoryId": 39,
+        "brandId": "MI",
+        "sculpture": "ENERGY SAVER",
+        "width": 215,
+        "ratio": 60,
+        "diameter": 16,
+        "treadDepth": 0,
+        "service": false,
+        "isTyre": true,
+        "creationDateTime": "2019-01-01T00:00:00",
+        "lastModifiedDateTime": "2019-01-01T00:00:00"
+    },
+    {
+        "id": 120412,
+        "code": "D-842983",
+        "description": "[DEMO1] CUB. 205/55 R17 91W  PRIMACY 3 ZP * GRNX",
+        "categoryId": 39,
+        "brandId": "MI",
+        "sculpture": "PRIMACY 3",
+        "width": 205,
+        "ratio": 55,
+        "diameter": 17,
+        "treadDepth": 0,
+        "service": false,
+        "isTyre": true,
+        "creationDateTime": "2019-01-01T00:00:00",
+        "lastModifiedDateTime": "2019-01-01T00:00:00"
+    },
+    {
+        "id": 120413,
+        "code": "D-569907",
+        "description": "[DEMO1] CUB. 235/35 R19 91Y XL LOAD TL DYNAXER HP",
+        "categoryId": 39,
+        "brandId": "KL",
+        "sculpture": "DYNAXER HP3",
+        "width": 235,
+        "ratio": 35,
+        "diameter": 19,
+        "treadDepth": 0,
+        "service": false,
+        "isTyre": true,
+        "creationDateTime": "2019-01-01T00:00:00",
+        "lastModifiedDateTime": "2019-01-01T00:00:00"
+    }
+
+	]
+
+}
