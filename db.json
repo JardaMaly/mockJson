@@ -1,5 +1,5 @@
 {
-  "login": {
+  "Security/login": {
     "access_token": "token"
   },
   "items": [
